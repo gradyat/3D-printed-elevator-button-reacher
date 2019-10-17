@@ -5,7 +5,7 @@ _3D-printed elevator button reacher for accessibility created with OpenSCAD_
 
 This tool assists a person reach to push buttons, specifically in an elevator. It was written in **OpenSCAD**, **scaled larger** using Ultimaker Cura software, then printed on an **Ultimaker 3**.
 
-<!-- After printing, we added a grip material to the end so it works better on buttons. -->
+After printing, we added a grip material to the end so it works better on buttons.
 
 More information can be found on its [Thingiverse page](https://www.thingiverse.com/thing:3918660).
 
@@ -23,6 +23,9 @@ For [CSE 599: Special Topics on Accessible Technology](https://make4all.org/port
 
 After printing, without grip attached at end.
 ![A silver 3D printed button reacher with two ends, each cone shaped for a handle and end for pushing buttons. The middle long section is triangular prism shaped.](button-reacher-img.jpg)
+
+After printing, with grip attached at the end.
+![The reacher as described in previous image, with soft black grip at the button pusher end.](button-reacher-with-grip-img.jpg)
 
 While printing.
 ![It's about one-quarter of the way complete. The nozzle is in the middle. The shape of the infill is noticed.](button-reacher-printing-img1.jpg)
